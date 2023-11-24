@@ -30,6 +30,8 @@ header header{
 
 a {
     color: #2F422A;
+    text-decoration: none;
+    border: 1px outset #72846D;
 }
 
 nav a {
@@ -46,4 +48,12 @@ h2 {
 
 main img {
     text-align: center;
+}
+
+main p {
+    text-align: center;
+}
+
+.qwe {
+    text-align: left;
 }
